@@ -52,4 +52,4 @@ searchBtn.addEventListener("click", () => {
   // Call the checkWeather function with the value from the search input box
   checkWeather(searchBox.value);
 });
-alert("you got hacked");
+alert("")
